@@ -1,15 +1,15 @@
 body{
-  font-family:Arial,sans-serif;/
-line-height:1.6;/
+  font-family:Arial,sans-serif;
+line-height:1.6;
   margin:0;
   padding:0;
-  background-color:#f4f4f4;/
-  colro:333;/
+  background-color:#f4f4f4;
+  colro:333;
 }
 header {
-backgroung:#4CAF50;
+background:#4CAF50;
   color:white;
-  padding:20px0;
+  padding:20px 0;
   text-align:center;
 }
 header h1{
